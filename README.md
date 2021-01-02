@@ -6,6 +6,7 @@
 - Informações: Elemento processado (lapidado) constituido de dados.
 
 #### Banco de dados: 
+```
 ~~~Relacional
 - SQL
 - SGBDRs: Sistema gerenciador de banco de dados, conforme são chamados, oferecem aos usuários processo de validação, verificação e garantias de integridade dos dados.
@@ -24,7 +25,8 @@
 - Sistemas baseados em grafos
 - Principais
 - mongoDB, CouchDB, Redis...
-~~~		
+~~~
+```		
 
 ## MODELAGEM DE DADOS
 ### fr
