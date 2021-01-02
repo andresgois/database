@@ -26,4 +26,8 @@
 	
 
 ## MODELAGEM DE DADOS
-### fr
+- Os modelos de banco de dados são para descrever, mais detalhadamente, a estrutura de um banco de dados. Eles servem então como parte importante da documentação dos sistemas que auxiliam não somente os desenvolvedores que estão trabalhando no projeto mas também servem como documentação que pode ser entregue ao cliente que contratou o serviço de desenvolvimento.
+- *Atenção*: Um modelo de dados não informa quais dados estão armazenados em um banco de dados, mas sim apenas quais e que tipos de dados contém.
+- Estes modelos são baseados em três níveis: *Conceitual, Lógico e Físico*
+
+
